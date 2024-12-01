@@ -44,7 +44,7 @@
 ![](images/4sec_req.png)
 
 Cтруктура файлов после запроса
-![](images/4file_to_serv.png)
+![](images/5file_to_serv.png)
 
 Загрузка результатов работы
 ![](images/6result.png)
